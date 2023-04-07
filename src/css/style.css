@@ -19,5 +19,6 @@ body{
 }
 
 .informacoes .logo{
-    
+    max-width: 350px;
+    filter: invert(1);
 }
