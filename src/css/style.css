@@ -1,17 +1,17 @@
 /* CSS Document */
 
 body{
-    font-family: 'Poppins', sans-serif;
-    max-width: 1280px;
+    font-family: 'Poppins', sans-serif; /* Coloca a fonte padrão do site */
+    max-width: 1280px; /* Tamanho maximo do site */
     margin: 0 auto;
 }
 
 .conteudo{
     background-color: aquamarine;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    justify-content: space-evenly;
+    display: flex; /* Flexibiliza os elementos da tela por padrão em linha "flex-direction : row" */
+    flex-direction: column; /* Converte a flexibilização em coluna */
+    min-height: 100vh; /* Minimo de margem lateral */
+    justify-content: space-evenly; /* Justifica o conteudo */
 }
 
 .informacoes{
@@ -20,5 +20,20 @@ body{
 
 .informacoes .logo{
     max-width: 350px;
-    filter: invert(1);
+    filter: invert(1); /* Inverte as cores dos itens */
+    margin-bottom: 80px;
+}
+
+.informacoes .descricao{
+    width: 49%;
+    font-size: 24px;
+    color: #FFFFFF;
+    line-height: 30px; /* Expaçamento das linhas */
+}
+
+.botoes-carrossel{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
