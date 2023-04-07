@@ -37,3 +37,22 @@ body{
     justify-content: center;
     gap: 20px;
 }
+
+.botoes-carrossel .botao{
+    background-color: #FFFFFF;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    cursor: pointer;
+    border-color: #FFFFFF;
+}
+
+.botoes-carrossel .botao.selecionado{
+    background-color: #1d8346;
+
+}
+
+.menu-lateral{
+    background-color: aqua;
+}
