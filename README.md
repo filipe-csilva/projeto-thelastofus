@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | ------------------
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://cdn.discordapp.com/attachments/432013031606583306/1067274042580664380/image.png)
+![](https://cdn.discordapp.com/attachments/769394667531534386/1113539910637453472/image.png)
 
 ## Detalhes do projeto
 
